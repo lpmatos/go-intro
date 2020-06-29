@@ -1,2 +1,3 @@
-# go-intro
- 📚 Just a repository to study Golang
+# Go Intro
+
+📚 Just a repository to study **Golang**
