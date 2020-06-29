@@ -1,5 +1,6 @@
 package main
 
+// Importação consignada
 import (
 	"fmt"
 	"time"
