@@ -2,6 +2,11 @@ package main
 
 import "fmt"
 
+// Go tem ponteiros. Um ponteiro guarda na memória o endereço de uma variável.
+// O operador & gera um ponteiro para seu operando.
+// O operador * indica valor subjacente do ponteiro.
+// Isto é conhecido como "desreferenciamento" ou "indirecionamento".
+
 func main() {
 	i := 1
 	fmt.Println(i, &i)
